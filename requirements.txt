@@ -10,3 +10,4 @@ tensorflow-cpu
 statsmodels
 shap
 joblib
+spacy
