@@ -11,3 +11,4 @@ spacy
 joblib
 shap
 statsmodels
+python-dateutil
