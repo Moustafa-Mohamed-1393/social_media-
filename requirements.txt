@@ -2,10 +2,11 @@ streamlit
 pandas
 numpy
 matplotlib
-plotly
 seaborn
+plotly
 scikit-learn
 xgboost
+tensorflow
 statsmodels
+shap
 joblib
-
